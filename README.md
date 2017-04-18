@@ -1,0 +1,2 @@
+# effigy-flipvertical
+Flip vertical
