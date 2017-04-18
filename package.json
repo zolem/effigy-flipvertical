@@ -1,0 +1,19 @@
+{
+  "name": "effigy-flipvertical",
+  "version": "1.0.0",
+  "description": "plugin for effigy to add the ability to flip an image on the x axis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolem/effigy-flipvertical.git"
+  },
+  "author": "Rudy Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zolem/effigy-flipvertical/issues"
+  },
+  "homepage": "https://github.com/zolem/effigy-flipvertical#readme"
+}
