@@ -1,5 +1,5 @@
 {
-  "name": "effigy-flipvertical",
+  "name": "@effigy/effigy-flipvertical",
   "version": "1.0.0",
   "description": "plugin for effigy to add the ability to flip an image on the x axis",
   "main": "index.js",
